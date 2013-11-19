@@ -1,0 +1,10 @@
+.ui.button.enormous {
+  padding: 0 30px;
+  font-size: 30px;
+  height: 90px;
+  line-height: 90px;
+}
+.ui.button.enormous.compact {
+  height: 60px;
+  line-height: 60px;
+}

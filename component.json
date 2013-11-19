@@ -1,0 +1,17 @@
+{
+  "name": "enormous-button",
+  "repo": "base-ui/enormous-button",
+  "description": "Enormous button",
+  "version": "0.0.1",
+  "paths": [],
+  "local": [],
+  "keywords": [],
+  "dependencies": {
+    "base-ui/button": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "css/enormous-button.css"
+  ]
+}
